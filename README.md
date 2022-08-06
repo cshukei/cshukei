@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 This is SK! I am a last year Software Engineering Student from UTAR. Enjoying the process of creating and solving bugs. Hope to learn new things here!
+
+Programming Languages:
+👩‍💻 Python
+👩‍💻 C++
+👩‍💻 Java
+👩‍💻 HTML, CSS< JavaScript, PHP
+👩‍💻 SQL
+
+Frameworks:
+💻 Laravel
+💻 Django
+💻 React Native

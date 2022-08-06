@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is SK! I am a last year Software Engineering Student from UTAR. Enjoy in creating and solving bugs. Hoping to learn new things here!
+This is SK! I am a last year Software Engineering Student from UTAR. Enjoying the process of creating and solving bugs. Hope to learn new things here!
